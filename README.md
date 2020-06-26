@@ -1,3 +1,9 @@
+# Neste projeto desenvolvi um clone da pagina do netflix e fiz ele usando o ReactJS, HTML e CSS pude aprender mais com ele
+sobre desenvolvimento front end e também gostei muito de desenvolver um clone assim simples mas que traz algo diferente.
+
+![Imagem do site](https://github.com/HenriqueVPS/Netflix-Clone/blob/master/imgSite.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
